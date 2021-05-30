@@ -1,7 +1,7 @@
 # TAREA-1-CAPITULO-1-2 
   1.OBJETIVOS 
   1.-
-  2.-
+  2.- Aprender las transformaciones de diferentes unidades
   
   
   
