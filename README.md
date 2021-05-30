@@ -1,6 +1,7 @@
 # TAREA-1-CAPITULO-1-2 
   1.OBJETIVOS 
-  
+  1.-
+  2.-
   
   
   
@@ -9,7 +10,7 @@
   
   
   3 .EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
-  1.- 
+  
   
   
    4 . VIDEO
