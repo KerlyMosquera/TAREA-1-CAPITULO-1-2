@@ -1,11 +1,11 @@
 # TAREA-1-CAPITULO-1-2 
   1.OBJETIVOS 
-  1.-
+  1.-Conocer unidades de edicion e instrumetos de medicon
   2.- Aprender las transformaciones de diferentes unidades
-  
-  
-  
-  
+  3.- Conocer  las caracteristicas  de los  conductores,aislantes  y semiconductores.
+  4.- Medir e  explicar  como la corriente  relizar un movimiento de carga  y el voltaje causa corriente  en un conductor 
+  5.-Conocer tipos de digramas Electricos  e Electronicos 
+
   2 . MARCO TEORICO
   
   
