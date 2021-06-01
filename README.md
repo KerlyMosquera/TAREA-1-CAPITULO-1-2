@@ -6,7 +6,7 @@
   4.- Medir e  explicar  como la corriente  relizar un movimiento de carga  y el voltaje causa corriente  en un conductor 
   5.-Conocer tipos de digramas Electricos  e Electronicos 
 
-  2 . MARCO TEORICO 
+  2 . MARCO TEORICO ## 
 1-2.El sistema SI de unidades
 1-3 Conversión de unidades
 1-4 Notación de potencia de diez
