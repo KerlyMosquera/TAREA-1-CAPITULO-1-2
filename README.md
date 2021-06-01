@@ -1,5 +1,5 @@
 # TAREA-1-CAPITULO-1-2 
-  1.OBJETIVOS 
+## 1. OBJETIVOS
   1.-Conocer unidades de edicion e instrumetos de medicon
   2.- Aprender las transformaciones de diferentes unidades
   3.- Conocer  las caracteristicas  de los  conductores,aislantes  y semiconductores.
@@ -34,6 +34,22 @@
   2-3  Voltaje
   2-4 Corriente
   2-5 Fuentes de voltaje de cd práticas
+  34. ¿Qué se entiende por cd?, ¿y por ca?
+Se entiende por cd o también conocido por corriente directa, unidireccional se refiere al flujo continuo de carga eléctrica a través de un conductor entre dos puntos de distinto potencial y carga eléctrica, que no cambia de sentido con el tiempo, ca o también conocido como corriente alterna a diferencia de cd esta corriente cambia de dirección de manera cíclica y las cargas fluyen de manera alternada en una dirección y después en la otra dentro del circuito.
+35. Considere tres baterías conectados como en la figura 2-33.
+![image](https://user-images.githubusercontent.com/84431598/120265042-c1456200-c264-11eb-99b5-bceb0dc66d63.png)
+![image](https://user-images.githubusercontent.com/84431598/120265246-3153e800-c265-11eb-9d68-da6acff264ab.png)
+36. ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
+La batería secundaria se carga al momento de pasar corriente a través de ella en sentido opuesto a su dirección de descarga. Las baterías primerias no se pueden cargar.
+37. Una batería especificada en 1400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?.
+![image](https://user-images.githubusercontent.com/84431598/120265353-7d9f2800-c265-11eb-8674-e371003ceca5.png)
+38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA ? ¿ Qué concluye de estos resultados?
+Según la tabla 2-1 nos da los siguientes resultados: 
+![image](https://user-images.githubusercontent.com/84431598/120265444-ba6b1f00-c265-11eb-8211-a8b5850794c0.png)
+Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de servicio. Si el consumo inicial es mayor las horas de servicio son menores.
+39.  La batería de la figura 2-15 está especificada en 81 Ah a 5℃. ¿ Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5A a -15℃ ?
+
+
   2-6 Medición de voltaje y corriente
 2-7 Interrumptores, fusibles e interrumptores automaticos 
   
