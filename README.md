@@ -6,7 +6,7 @@
   4.- Medir e  explicar  como la corriente  relizar un movimiento de carga  y el voltaje causa corriente  en un conductor 
   5.-Conocer tipos de digramas Electricos  e Electronicos 
 
-  2 . MARCO TEORICO ## 
+## 2. MARCO TEÓRICO
 1-2.El sistema SI de unidades
 1-3 Conversión de unidades
 1-4 Notación de potencia de diez
@@ -22,7 +22,7 @@
 2-6  Medición de  voltaje y corriente
 2-7  Interruptores, fusibles e interruptores automáticos
 
-  3 .EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
+## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS 
   1-3 Conversión de unidades 
   1-4 Notación de potencia de diez
   1-5 Prefijos, notación de ingeniería y resultados numéricos
@@ -39,13 +39,10 @@
   
   
   
-   4 . VIDEO
+## 4.VIDEO
+## 5. CONCLUSIONES
+## 6. BIBLIOGRAFIA
    
-   
-   5  .  CONCLUCIONES 
-   
-   
-   6 . BIBLIOGRAFIA
    
   
   
