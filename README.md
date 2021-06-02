@@ -7,13 +7,14 @@
   5.-Conocer tipos de digramas Electricos  e Electronicos 
 
 ## 2. MARCO TEÓRICO
+###### INTRODUCCION
 1-2.El sistema SI de unidades
 1-3 Conversión de unidades
 1-4 Notación de potencia de diez
 1-5 Prefijos, notación de ingeniería y resultados numéricos
 1-6 Diagrama de circuitos
 1-7 Análisis de circuitos mediante computadoras y calculadoras
---------Voltaje y Corriente-----------
+###### VOLTAJE Y CORRIENTE
 2.1 Revisión de la teoría atómica
 2-2 La unidad de carga eléctrica: el coulomb
 2-3  Voltaje
