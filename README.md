@@ -49,6 +49,7 @@ Según la tabla 2-1 nos da los siguientes resultados:
 ![image](https://user-images.githubusercontent.com/84431598/120265444-ba6b1f00-c265-11eb-8211-a8b5850794c0.png)
 Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de servicio. Si el consumo inicial es mayor las horas de servicio son menores.
 39.  La batería de la figura 2-15 está especificada en 81 Ah a 5℃. ¿ Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5A a -15℃ ?
+40.Convierta lo siguiente 
 
 
   2-6 Medición de voltaje y corriente
