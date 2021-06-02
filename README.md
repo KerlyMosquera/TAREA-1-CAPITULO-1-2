@@ -188,7 +188,9 @@ Cuantos Kw esta cantidad?
   
 ## 4.VIDEO
 ## 5. CONCLUSIONES
-## 6. BIBLIOGRAFIA
+## 6. BIBLIOGRAFIA 
+
+   Robbins,A y Miller,W.(2007).Análisis de circuitos .(Cuarta edición).Cengage Learning.
    
    
   
