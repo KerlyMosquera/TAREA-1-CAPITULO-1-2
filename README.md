@@ -113,9 +113,20 @@ Cuantos Kw esta cantidad?
 
 ![image](https://user-images.githubusercontent.com/84458025/120426529-e35ae500-c335-11eb-8e84-d680295a8ca6.png)
 
-![image](https://user-images.githubusercontent.com/84458025/120426903-8d3a7180-c336-11eb-9b11-b4e978271faf.png)
+![image](https://user-images.githubusercontent.com/84458025/120428503-5f0a6100-c339-11eb-9ac9-724b512b1622.png)
+
 
 47.-Para la figura 1-12. I1+I2-I3+I4=0.Si I1=12A. I2=0,150 kA e I4 250x10^-1 A.Cuanto vale I3?.
+
+![image](https://user-images.githubusercontent.com/84458025/120427837-477ea880-c338-11eb-8ff7-7133d246b290.png)
+
+![image](https://user-images.githubusercontent.com/84458025/120428696-c0cacb00-c339-11eb-9b18-e48d71e85d58.png)
+
+48.-En cierto circuito electronico. V1=V2-V3-V4.Si V1 = 120 mV,V2=5000 uV yV3=20X10^-4 V.Cuanto vale V4?.
+
+![image](https://user-images.githubusercontent.com/84458025/120429194-96c5d880-c33a-11eb-8c24-80b0f9cdf4a3.png)
+
+49.-Al reparar un radio antiguo se encuentra un capacitor defectuso designado por 39 mmfd.Despues de investigar se encuentra que "mmfd" es una unidad obsoleta que significa "micromicrofarads".Se requiere un capacitor de reemplazo de valor equivalente.Consukte la tabla 1-6.Cual sera el valor equivalente a 39"micromicrofarads"?.
 
 
 
