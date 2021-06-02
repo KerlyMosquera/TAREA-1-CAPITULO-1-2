@@ -103,6 +103,21 @@ V transmision = 150 Kv
 
 ![image](https://user-images.githubusercontent.com/84458025/120424911-e6080b00-c332-11eb-87db-bd655b3baa62.png)
 
+45.Se comprar un radiador  electricode 1500 w para calentaruna habitacion.
+Cuantos Kw esta cantidad?
+1,5 Kw.
+
+![image](https://user-images.githubusercontent.com/84458025/120425889-a7735000-c334-11eb-9221-b9ebb5ace722.png)
+
+46    Considere la figura 1-11 .Como aprendera en el capitulo 6 I4= I1+I2+I3.Si I=1,25 mA. I2=350 uA e I3=250x10^10-5A.Cuanto valeI4?
+
+![image](https://user-images.githubusercontent.com/84458025/120426529-e35ae500-c335-11eb-8e84-d680295a8ca6.png)
+
+![image](https://user-images.githubusercontent.com/84458025/120426903-8d3a7180-c336-11eb-9b11-b4e978271faf.png)
+
+47.-Para la figura 1-12. I1+I2-I3+I4=0.Si I1=12A. I2=0,150 kA e I4 250x10^-1 A.Cuanto vale I3?.
+
+
 
 
 
