@@ -205,10 +205,19 @@ a. Si V=50 V e I=24mA (ambos valores exactos), ¿cuánto vale R?
 b.-Si el voltaje se mide como V=50.0 ± 0.1 volts y la corriente como I-24.0 ± 0.1 mA, ¿qué concluye acerca de R con base en los valores medidos?  
 Con una medicion se puede conluir que el voltaje de la recistencia se encuentra entre los 2.05 mA y 2,10mA.
 
-54,-El componente soldado en el circuito impreso de la Figura 1-13(a) es un dispositivo
+54.-El componente soldado en el circuito impreso de la Figura 1-13(a) es un dispositivo
 electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ±  0.1
 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre
 las terminales debida a las tolerancias de fabricación.
+
+![image](https://user-images.githubusercontent.com/84458025/120551269-71c57a00-c3bb-11eb-96e8-7edafc32a796.png)
+
+![image](https://user-images.githubusercontent.com/84458025/120553367-07620900-c3be-11eb-85f7-8c2c59c83a23.png)
+
+![image](https://user-images.githubusercontent.com/84458025/120553488-29f42200-c3be-11eb-912d-e0fd435e45a6.png)
+
+56.- Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores,inductores y capacitores. Utilícelos como ayuda.
+
 
 
 
