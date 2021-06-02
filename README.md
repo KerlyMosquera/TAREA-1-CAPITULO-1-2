@@ -28,7 +28,11 @@
 
 21.-Exprese cada unas de las siguientes cantidades en la notación de potencias  de diez con un dígito diferente de cero a la izquierda de punto decimal.
 
-22.- Exprese las  respuestas de cada unas de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
+Para expresar un número en la notación de potencia de diez,es contar el número de lugares de derecha a izquierda que se mueve el punto decimal .
+
+![image](https://user-images.githubusercontent.com/84431598/120547341-9408c900-c3b6-11eb-965d-55a4d6b71b8a.png)
+
+22.- Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
 
 23.- Repita las instrucciones de la pregunta 22 para las siguientes cantidades.
 
