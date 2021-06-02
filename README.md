@@ -198,6 +198,33 @@ CAPITULO 2
 
 1.-¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
 
+a.-1 metro cúbico de cobre
+
+10^29 electrones libres 
+
+b.-Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
+
+![image](https://user-images.githubusercontent.com/84458025/120558876-b9510380-c3c5-11eb-8464-33c1a9122486.png)
+
+2.-Dos cargas están separadas por cierta distancia, como en la figura 2-31,¿cómo se ve afectada la fuerza entre ellas si
+
+![image](https://user-images.githubusercontent.com/84458025/120559099-07fe9d80-c3c6-11eb-998d-c895d46033d3.png)
+
+![image](https://user-images.githubusercontent.com/84458025/120559195-35e3e200-c3c6-11eb-8038-7988433ee71e.png)
+
+b. se triplica la distancia entre ellas?
+
+![image](https://user-images.githubusercontent.com/84458025/120559465-b1de2a00-c3c6-11eb-8584-90eda4c34fd6.png)
+
+
+3.-Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad,¿cómo se ve afectada la fuerza?
+
+![image](https://user-images.githubusercontent.com/84458025/120560484-67f64380-c3c8-11eb-8563-dc13f5fb280f.png)
+
+4.-Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
+
+
+
 
 34. ¿Qué se entiende por cd?, ¿y por ca?
 Se entiende por cd o también conocido por corriente directa, unidireccional se refiere al flujo continuo de carga eléctrica a través de un conductor entre dos puntos de distinto potencial y carga eléctrica, que no cambia de sentido con el tiempo, ca o también conocido como corriente alterna a diferencia de cd esta corriente cambia de dirección de manera cíclica y las cargas fluyen de manera alternada en una dirección y después en la otra dentro del circuito.
