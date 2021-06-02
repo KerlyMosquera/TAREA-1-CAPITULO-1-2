@@ -224,7 +224,10 @@ las terminales debida a las tolerancias de fabricación.
 
 ![image](https://user-images.githubusercontent.com/84458025/120557027-ecde5e80-c3c2-11eb-809e-a0fa6e90d3ea.png)
 
+CAPITULO 2
+2-1 Revision de la teoria atomica 
 
+1.-¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
 
 
 
