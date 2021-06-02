@@ -218,6 +218,11 @@ las terminales debida a las tolerancias de fabricación.
 
 56.- Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores,inductores y capacitores. Utilícelos como ayuda.
 
+![image](https://user-images.githubusercontent.com/84458025/120556184-c4a23000-c3c1-11eb-889e-9811d81d8155.png)
+
+57.-Elabore el diagrama esquemático para una simple linterna.
+
+![image](https://user-images.githubusercontent.com/84458025/120557027-ecde5e80-c3c2-11eb-809e-a0fa6e90d3ea.png)
 
 
 
