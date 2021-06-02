@@ -1,14 +1,22 @@
 # TAREA-1-CAPITULO-1-2 
 ## 1. OBJETIVOS
-  1.-Conocer unidades de edicion e instrumetos de medicon
+  1.- Analizar y aprender el estándar SI
   
-  2.- Aprender las transformaciones de diferentes unidades
+  2.- Utilizar notación científica es decir la potencia de diez para representar cantidades.
   
-  3.- Conocer  las caracteristicas  de los  conductores,aislantes  y semiconductores
+  3.- Utilizar notación de ingeniería y prefijos métricos.
   
-  4.- Medir e  explicar  como la corriente  relizar un movimiento de carga  y el voltaje causa corriente  en un conductor 
+  4.- Conocer  las caracteristicas  de los  conductores,aislantes  y semiconductores
   
-  5.-Conocer tipos de digramas Electricos  e Electronicos 
+  5.- Medir e  explicar el concepto de carga eléctrica.
+  
+  6.-Conocer tipos de digramas Eléctricos  e Electrónicos 
+  
+  7.-Realizar mediciones de circuitos básicas.
+  
+  8.-Describir la estructuta básica de los átomos.
+  
+  9.-Analizar el comportamiento de interruptores, fusibles e interrutores automáticos.
 
 ## 2. MARCO TEÓRICO
 ###### INTRODUCCION
