@@ -44,13 +44,14 @@ Se entiende por cd o también conocido por corriente directa, unidireccional se 
 La batería secundaria se carga al momento de pasar corriente a través de ella en sentido opuesto a su dirección de descarga. Las baterías primerias no se pueden cargar.
 37. Una batería especificada en 1400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?.
 ![image](https://user-images.githubusercontent.com/84431598/120265353-7d9f2800-c265-11eb-8674-e371003ceca5.png)
-38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA ? ¿ Qué concluye de estos resultados?
+38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA ? ¿ Qué concluye de estos resultados?m
 Según la tabla 2-1 nos da los siguientes resultados: 
 ![image](https://user-images.githubusercontent.com/84431598/120265444-ba6b1f00-c265-11eb-8211-a8b5850794c0.png)
 Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de servicio. Si el consumo inicial es mayor las horas de servicio son menores.
 39.  La batería de la figura 2-15 está especificada en 81 Ah a 5℃. ¿ Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5A a -15℃ ?
 40.Convierta lo siguiente 
-
+a.-156 mV en volts 
+![image](https://user-images.githubusercontent.com/84458025/120419876-e4394a00-c328-11eb-99f7-3e6dc01060e8.png)
 
   2-6 Medición de voltaje y corriente
 2-7 Interrumptores, fusibles e interrumptores automaticos 
