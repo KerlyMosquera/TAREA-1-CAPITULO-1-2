@@ -51,7 +51,7 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
 39.  La batería de la figura 2-15 está especificada en 81 Ah a 5℃. ¿ Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5A a -15℃ ?
 40.Convierta lo siguiente 
 a.-156 mV en volts 
-![image](https://user-images.githubusercontent.com/84458025/120419876-e4394a00-c328-11eb-99f7-3e6dc01060e8.png)
+![image](https://user-images.githubusercontent.com/84458025/120420087-3ed2a600-c329-11eb-9c16-b70ef3edc637.png)
 
   2-6 Medición de voltaje y corriente
 2-7 Interrumptores, fusibles e interrumptores automaticos 
