@@ -26,6 +26,8 @@
 
 1-4 Notación de potencia de diez
 
+1-5 Prefijos, notación de ingeniería y resultados numéricos
+
 1-6 Diagrama de circuitos
 
 1-7 Análisis de circuitos mediante computadoras y calculadoras
@@ -49,56 +51,7 @@
   
   1-4 Notación de potencia de diez
   
-  
-21.-Exprese cada unas de las siguientes cantidades en la notación de potencias  de diez con un dígito diferente de cero a la izquierda de punto decimal.
-
-Para expresar un número en la notación de potencia de diez,es contar el número de lugares de derecha a izquierda que se mueve el punto decimal .
-
-![image](https://user-images.githubusercontent.com/84431598/120549350-1eeac300-c3b9-11eb-98de-e466377c031a.png)
-
-22.- Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
-
-23.- Repita las instrucciones de la pregunta 22 para las siguientes cantidades.
-
-24.- Determine el resultado de las siguientes oper  
-
-25.-Convierta las siguientes cantidades a notación de potencias de 10, yy sin usar la calculadora determine las respuestas.
-
-26.- Para cada una de las siguientes cantidades convierta los números de potencias  a notación de potencias de diez, después realice los cálculos que se indica. Redondee su respuesta a cuatro dígitos.
-
-27.- Realice lo siguiente,
-
--Convierta los números a notación de potencias de deiz, después realice los cálculos que se indican.
--Realice la operación directamente en la calculadora sin conversíon.¿ Cuál es su conclusión ?  
-
-28.- Exprese cada una de las siguientes cantidades en notación convencional:
-
-29.- Un coulomb(capítulo 2)  es la cantidad de carga representada por 6240 000 000 000  000 000  electrones. Exprese esta cantidad en notación de potencias de diez.
-
-30.- La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 8999kg. Exprese esta cifra como una potencia de 10 con un dígito diefernte de cero a la izquierda del punto decimal.
-
-31.- Si 6.24x10^(18) electrones psan a través de un alambre en 1s, ¿ cuántos pasan a través de él durante un intervalo de 2hr, 47 min y 10s ?
-
-32.- Calcula la distancia en metros que viaja la luz en el vación en 1.2x10^(-8) segundos.
-
-33.- ¿Cuánto tiempo tarde la luz en viajar 3.47x10^(5) km en el vacío?
-
-34.-¿ Qué tan lejos viaja la luz en km en un año luz?
-
-35.- Al investigar un sitio para un proyecto hidroeléctrico se determinan que el flujo de agua es 3.73x10^(4) m^(3)/s .¿A cuánto equivale esta cantidad en litros/horas
-
-36.- La fuerza gravitacional entre dos cuerpos es ------------------------------- donde las masas m1 y m2 están en kiligramos y la distancia r entre los centros gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25kg/m^(3), y el cuerpo 2 es una esfera de diámetro de 20000km y densidad 12kg/m^3.¿Cuál es la fuerza gravitacional entre ellos?
-
-
-1-5 Prefijos, notación de ingeniería y resultados numéricos
-
-37. ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
-
-38.Exprese los siguiente en términos de sus abreviaturas, es decir, microwatts con uW .Ponga atención en las mayúsculas (esto es V, no v, para volts)
-
-39. Exprese los siguiente en la notacion  de ingenierís más práctica (esto es,1270 us)1.27ms).
-
-  
+  1-5 Prefijos, notación de ingeniería y resultados numéricos
   
   1-6 Diagramas de circuitos
   
@@ -214,6 +167,49 @@ Cuantos Kw esta cantidad?
 ![image](https://user-images.githubusercontent.com/84458025/120429194-96c5d880-c33a-11eb-8c24-80b0f9cdf4a3.png)
 
 49.-Al reparar un radio antiguo se encuentra un capacitor defectuso designado por 39 mmfd.Despues de investigar se encuentra que "mmfd" es una unidad obsoleta que significa "micromicrofarads".Se requiere un capacitor de reemplazo de valor equivalente.Consukte la tabla 1-6.Cual sera el valor equivalente a 39"micromicrofarads"?.
+
+![image](https://user-images.githubusercontent.com/84458025/120537996-91ed3d00-c3ab-11eb-9365-fb43b256c424.png)
+
+50.-a. Si 0,045 coulomb de carga (pregunta 29)pasan a través de un alambre en
+15 ms, ¿a cuántos electrones equivale esto?
+
+R=1,872x10^19 e/s
+
+![image](https://user-images.githubusercontent.com/84458025/120547508-d4684700-c3b6-11eb-95c6-fecd6ce6378c.png)
+
+b.-Con una rapidez de 9.36x10^-19 electrones por segundo, ¿cuántos coulombs
+pasan por un punto de un alambre en 20uS?
+
+![image](https://user-images.githubusercontent.com/84458025/120547686-13969800-c3b7-11eb-8810-c1b2a97e1583.png)
+
+51.-Una señal de radio viaja a 299 792.458 km/s y una señal telefónica a 150Km/s. Si ambas se originan en el mismo punto, ¿cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
+
+![image](https://user-images.githubusercontent.com/84458025/120547892-50628f00-c3b7-11eb-944c-f5cdf30d0026.png)
+
+52.-En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del
+voltaje y la corriente, esto es, P=V*I watts.
+a.-Si V=50 VeI=24mA (ambos valores exactos), ¿cuánto vale P en watts?
+
+![image](https://user-images.githubusercontent.com/84458025/120548290-d088f480-c3b7-11eb-84de-091c406a9cdc.png)
+
+b.-Si el voltaje se mide con un voltímetro como V=50.0+/- 0.1 volts y la corriente se mide con un amperímetro como I=24.0+/-0.1 mA, ¿qué concluye acerca de P con base en los valores medidos?
+
+La potencia varia entre los 1,2w a 1.20watts 
+
+53.-53. En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R=V ÷I ohms.
+
+a. Si V=50 V e I=24mA (ambos valores exactos), ¿cuánto vale R?
+
+![image](https://user-images.githubusercontent.com/84458025/120549360-23af7700-c3b9-11eb-8e47-aab24267c30d.png)
+
+b.-Si el voltaje se mide como V=50.0 ± 0.1 volts y la corriente como I-24.0 ± 0.1 mA, ¿qué concluye acerca de R con base en los valores medidos?  
+Con una medicion se puede conluir que el voltaje de la recistencia se encuentra entre los 2.05 mA y 2,10mA.
+
+54,-El componente soldado en el circuito impreso de la Figura 1-13(a) es un dispositivo
+electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ±  0.1
+mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre
+las terminales debida a las tolerancias de fabricación.
+
 
 
 
