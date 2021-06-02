@@ -26,7 +26,49 @@
 
 1-4 Notación de potencia de diez
 
+21.-Exprese cada unas de las siguientes cantidades en la notación de potencias  de diez con un dígito diferente de cero a la izquierda de punto decimal.
+
+22.- Exprese las  respuestas de cada unas de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
+
+23.- Repita las instrucciones de la pregunta 22 para las siguientes cantidades.
+
+24.- Determine el resultado de las siguientes oper  
+
+25.-Convierta las siguientes cantidades a notación de potencias de 10, yy sin usar la calculadora determine las respuestas.
+
+26.- Para cada una de las siguientes cantidades convierta los números de potencias  a notación de potencias de diez, después realice los cálculos que se indica. Redondee su respuesta a cuatro dígitos.
+
+27.- Realice lo siguiente,
+
+-Convierta los números a notación de potencias de deiz, después realice los cálculos que se indican.
+-Realice la operación directamente en la calculadora sin conversíon.¿ Cuál es su conclusión ?  
+
+28.- Exprese cada una de las siguientes cantidades en notación convencional:
+
+29.- Un coulomb(capítulo 2)  es la cantidad de carga representada por 6240 000 000 000  000 000  electrones. Exprese esta cantidad en notación de potencias de diez.
+
+30.- La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 8999kg. Exprese esta cifra como una potencia de 10 con un dígito diefernte de cero a la izquierda del punto decimal.
+
+31.- Si 6.24x10^(18) electrones psan a través de un alambre en 1s, ¿ cuántos pasan a través de él durante un intervalo de 2hr, 47 min y 10s ?
+
+32.- Calcula la distancia en metros que viaja la luz en el vación en 1.2x10^(-8) segundos.
+
+33.- ¿Cuánto tiempo tarde la luz en viajar 3.47x10^(5) km en el vacío?
+
+34.-¿ Qué tan lejos viaja la luz en km en un año luz?
+
+35.- Al investigar un sitio para un proyecto hidroeléctrico se determinan que el flujo de agua es 3.73x10^(4) m^(3)/s .¿A cuánto equivale esta cantidad en litros/horasz
+
+36.- La fuerza gravitacional entre dos cuerpos es ------------------------------- donde las masas m1 y m2 están en kiligramos y la distancia r entre los centros gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25kg/m^(3), y el cuerpo 2 es una esfera de diámetro de 20000km y densidad 12kg/m^3.¿Cuál es la fuerza gravitacional entre ellos?
+
+
 1-5 Prefijos, notación de ingeniería y resultados numéricos
+
+37. ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
+
+38.Exprese los siguiente en términos de sus abreviaturas, es decir, microwatts con uW .Ponga atención en las mayúsculas (esto es V, no v, para volts)
+
+39. Exprese los siguiente en la notacion  de ingenierís más práctica (esto es,1270 us)1.27ms).
 
 1-6 Diagrama de circuitos
 
