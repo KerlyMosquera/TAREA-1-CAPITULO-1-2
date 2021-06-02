@@ -26,11 +26,36 @@
 
 1-4 Notación de potencia de diez
 
+1-6 Diagrama de circuitos
+
+1-7 Análisis de circuitos mediante computadoras y calculadoras
+###### VOLTAJE Y CORRIENTE
+2.1 Revisión de la teoría atómica
+
+2-2 La unidad de carga eléctrica: el 
+
+2-3  Voltaje
+
+2-4 Corriente
+
+2-5 Fuentes de voltaje de cd prácticas
+
+2-6  Medición de  voltaje y corriente
+
+2-7  Interruptores, fusibles e interruptores automáticos
+
+## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS 
+  1-3 Conversión de unidades 
+  
+  1-4 Notación de potencia de diez
+  
+  
 21.-Exprese cada unas de las siguientes cantidades en la notación de potencias  de diez con un dígito diferente de cero a la izquierda de punto decimal.
 
 Para expresar un número en la notación de potencia de diez,es contar el número de lugares de derecha a izquierda que se mueve el punto decimal .
 
-![image](https://user-images.githubusercontent.com/84431598/120547341-9408c900-c3b6-11eb-965d-55a4d6b71b8a.png)
+![image](https://user-images.githubusercontent.com/84431598/120549209-e5b25300-c3b8-11eb-9447-c5203658f99d.png)
+
 
 22.- Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
 
@@ -61,7 +86,7 @@ Para expresar un número en la notación de potencia de diez,es contar el númer
 
 34.-¿ Qué tan lejos viaja la luz en km en un año luz?
 
-35.- Al investigar un sitio para un proyecto hidroeléctrico se determinan que el flujo de agua es 3.73x10^(4) m^(3)/s .¿A cuánto equivale esta cantidad en litros/horasz
+35.- Al investigar un sitio para un proyecto hidroeléctrico se determinan que el flujo de agua es 3.73x10^(4) m^(3)/s .¿A cuánto equivale esta cantidad en litros/horas
 
 36.- La fuerza gravitacional entre dos cuerpos es ------------------------------- donde las masas m1 y m2 están en kiligramos y la distancia r entre los centros gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25kg/m^(3), y el cuerpo 2 es una esfera de diámetro de 20000km y densidad 12kg/m^3.¿Cuál es la fuerza gravitacional entre ellos?
 
@@ -74,30 +99,7 @@ Para expresar un número en la notación de potencia de diez,es contar el númer
 
 39. Exprese los siguiente en la notacion  de ingenierís más práctica (esto es,1270 us)1.27ms).
 
-1-6 Diagrama de circuitos
-
-1-7 Análisis de circuitos mediante computadoras y calculadoras
-###### VOLTAJE Y CORRIENTE
-2.1 Revisión de la teoría atómica
-
-2-2 La unidad de carga eléctrica: el 
-
-2-3  Voltaje
-
-2-4 Corriente
-
-2-5 Fuentes de voltaje de cd prácticas
-
-2-6  Medición de  voltaje y corriente
-
-2-7  Interruptores, fusibles e interruptores automáticos
-
-## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS 
-  1-3 Conversión de unidades 
   
-  1-4 Notación de potencia de diez
-  
-  1-5 Prefijos, notación de ingeniería y resultados numéricos
   
   1-6 Diagramas de circuitos
   
