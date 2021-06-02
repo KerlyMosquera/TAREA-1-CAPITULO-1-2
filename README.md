@@ -54,8 +54,7 @@
 
 Para expresar un número en la notación de potencia de diez,es contar el número de lugares de derecha a izquierda que se mueve el punto decimal .
 
-![image](https://user-images.githubusercontent.com/84431598/120549209-e5b25300-c3b8-11eb-9447-c5203658f99d.png)
-
+![image](https://user-images.githubusercontent.com/84431598/120549350-1eeac300-c3b9-11eb-98de-e466377c031a.png)
 
 22.- Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
 
