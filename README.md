@@ -223,6 +223,28 @@ b. se triplica la distancia entre ellas?
 
 4.-Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
+El mejor conductor es aquel que permite el mayor paso de electrones y con mayor valenica asi como la mayor cantidad de lectrones libres ejemplo el cobre.
+
+a.-¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
+  
+  Un buen conductor es aquel que cuenta con un solo electrón en la órbita de valencia (VALECIA 1) 
+  
+b.-Además de ser un buen conductor, mencione otras dos razones por las que el cobre es ampliamente usado.
+
+por su facil manipulacion e instalacion , por su bajo costo a diferencia de oro y la plata
+
+c.-¿Qué hace que un material sea buen aislante?
+
+Que no permita la libres circulacion de los electrones y tenga una alta resitencia.
+
+d.-Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga
+en esta descarga.
+
+Si dejamos al aire los extremos pelados de un conductor que se encuentre con flujo de corriente, no hay ninguna corriente entre ellos, el aire se comporta como un aislante, pero sin embargo en una tormenta, los rayos atraviesan el aire sin dificultad en este caso el aire se comporta como un conductor en realidad, si el voltaje de la corriente que intenta atravesar un aislante es lo suficientemente grande éste es capaz de comportarse como un conducto a esto se puede sumar que el flujo de lluvia y que la electricidad busca el mejor conductor por donde pueda fluir.
+
+6.- a. Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento en contactos. ¿Por qué?
+
+
 
 
 
