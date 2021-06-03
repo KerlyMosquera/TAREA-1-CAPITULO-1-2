@@ -97,9 +97,11 @@ f.	23 revoluciones a grados
 a.	27 pies a metros
 
 ![7](https://user-images.githubusercontent.com/84425276/120597366-90069680-c40a-11eb-95ea-962325ed6795.PNG)
+
 b.	2.3 yd a cm
 
 ![8](https://user-images.githubusercontent.com/84425276/120597381-939a1d80-c40a-11eb-8585-fb595180d373.PNG)
+
 c.	36°F a °C
 
 ![9](https://user-images.githubusercontent.com/84425276/120597391-985ed180-c40a-11eb-93c0-b243f2d8a8c1.PNG)
@@ -110,24 +112,45 @@ d.	18 galones (E. U.) a litros
 
 e.	100 pies cuadrados a m2
 
+![11](https://user-images.githubusercontent.com/84425276/120598605-1079c700-c40c-11eb-9e7a-cf188bb830cb.PNG)
+
 f.	124 pulgadas cuadradas a m2
+
+![12](https://user-images.githubusercontent.com/84425276/120598640-1c658900-c40c-11eb-934a-f08b048a33fe.PNG)
 
 g.	47 libras fuerza a newtons
 
+![13](https://user-images.githubusercontent.com/84425276/120598662-24bdc400-c40c-11eb-8941-3a5f0bbdfc7c.PNG)
+
 3.	Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.
+
 a.	El área de una placa de 1.2 m por 70 cm en m2
+
+![14](https://user-images.githubusercontent.com/84425276/120598708-3737fd80-c40c-11eb-8dd2-d5909369ebc1.PNG)
 
 b.	El área de un triángulo con 25 cm de base, altura 0.5 m en m2
 
+![15](https://user-images.githubusercontent.com/84425276/120598733-40c16580-c40c-11eb-8f4c-318c03eb9015.PNG)
+
 c.	El volumen de una caja de 10 cm por 25 cm por 80 cm en m3
+
+![16](https://user-images.githubusercontent.com/84425276/120598760-48810a00-c40c-11eb-9f80-5922b9b09a21.PNG)
 
 d.	El volumen de una esfera de 10 pulgadas de radio en m3
 
+![17](https://user-images.githubusercontent.com/84425276/120598788-50d94500-c40c-11eb-973a-1eb825d9686f.PNG)
+
 4.	Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?
+	
+![18](https://user-images.githubusercontent.com/84425276/120598830-58005300-c40c-11eb-8a67-938e70cf0a54.PNG)
 
 5.	Si la máquina robot de montaje superﬁcial de la ﬁgura 1-3 coloca 15 partes cada 12 s, ¿cuál es su tasa de colocación por hora?
+	
+![19](https://user-images.githubusercontent.com/84425276/120598849-60588e00-c40c-11eb-9072-f4f2a4a920e8.PNG)
 
 6.	Si su impresora láser puede imprimir 8 páginas por minuto, ¿cuántas páginas puede imprimir en una décima de hora?
+	
+![20](https://user-images.githubusercontent.com/84425276/120598879-69e1f600-c40c-11eb-9b2c-8b59d2fdc72f.PNG)
 
 7.	Un auto tiene un rendimiento de 27 millas por galón (E. U.). ¿Cuál es el rendimiento en kilómetros por litro?
 
