@@ -63,6 +63,9 @@ La tecnología ha cambiado de manera sorprendente la forma en que hacemos las co
 
 2-2 La unidad de carga eléctrica: el coulomb
 
+![image](https://user-images.githubusercontent.com/84431598/120679627-003f0780-c45f-11eb-9825-dfd7fe045746.png)
+
+
 2-3  Voltaje
 
 ![image](https://user-images.githubusercontent.com/84431598/120648245-0625f000-c441-11eb-9087-84310c68bd59.png)
