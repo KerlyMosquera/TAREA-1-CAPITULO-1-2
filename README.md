@@ -52,6 +52,9 @@
 
 2-5 Fuentes de voltaje de cd prácticas
 
+![image](https://user-images.githubusercontent.com/84431598/120587297-b4f30d80-c3fa-11eb-84f9-1170cdadb0a8.png)
+
+
 2-6  Medición de  voltaje y corriente
 
 2-7  Interruptores, fusibles e interruptores automáticos
