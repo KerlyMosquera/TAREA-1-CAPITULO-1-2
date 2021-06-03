@@ -295,8 +295,11 @@ Con tanto el numero de 0 y recorriendo la coma nos queda:
 
 ![image](https://user-images.githubusercontent.com/84431598/120655005-d62e1b00-c447-11eb-84a2-eba7353c2b27.png)
 
+34. ¿Qué tan lejos viaja la luz en km en  un año luz?
 
-
+ Un año luz equivale aproximadamente a 9 billones de kilómetros (cerca de 6 billones de millas).La luz viaja a una velocidad de 300 000 kilómetros por segundo (186 000 millas por segundo).
+ 
+ 35. Al investigar un sitio para un proyecto hidroeléctrico se determina que el flujo de agua es de 3X10^4 m^3/s ¿A cuánto equivale esta cantidad en litros/ horas?
 
   1-5 Prefijos, notación de ingeniería y resultados numéricos
   
