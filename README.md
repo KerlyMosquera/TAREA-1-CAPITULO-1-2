@@ -278,7 +278,14 @@ Contando el número de ceros que es 18 entonces nos quedaría
 
 ![image](https://user-images.githubusercontent.com/84431598/120611935-49209d00-c41a-11eb-960f-c6b413d382ab.png)
 
-30.- Si 6.24 X 10^18 electrones pasan a través de un alambre en 1s, ¿cuántos pasan a través de él durante un intervalo de 2hr, 47min y 10s? 
+30. La mas de un electrón es 0.000 000 000 000 000 000 000 000 000 000  8999 kg. Exprese esta crifra como ptencia de 10 con un dígiyo diferente de cero a la izquiera del punto decimal.
+
+Con tanto el numero de 0 y recorriendo la coma nos queda:
+
+![image](https://user-images.githubusercontent.com/84431598/120649514-76814100-c442-11eb-9f56-0c05b32a6a23.png)
+
+
+30.- Si 6.24 X 10^18 electrones pasan a través de un alambre en 1s, ¿cuántos pasan a través de él durante un intervalo de 2hr, 47min y 10s?
 
   1-5 Prefijos, notación de ingeniería y resultados numéricos
   
