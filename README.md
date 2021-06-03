@@ -672,10 +672,27 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
 
 
   2-6 Medición de voltaje y corriente
-2-7 Interrumptores, fusibles e interrumptores automaticos 
+  
+  42. El voltímetro digital de la figura 2-34 tiene la característica de autopolaridad. Para cada casa, determine su lectura.
+  
+  ![image](https://user-images.githubusercontent.com/84431598/120669812-69218200-c455-11eb-9017-2fb9d84807d0.png)
 
   
+  43.- La corriente en el circuito de la figura 2-35 es 9.17 A. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos
   
+  c.- ambos 
+  
+  44.- ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo.
+  
+  
+  
+  
+2-7 Interrumptores, fusibles e interrumptores automaticos 
+
+  46.- Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido
+  
+  47 . Los fusibles tienen una especificacion de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. Tambien tienen una especificacion de voltaje. ¿ Por qué? Sugerencia: lea la sección de aislantes, 2.1.
+  Porque
   
 ## 4.VIDEO
 ## 5. CONCLUSIONES
