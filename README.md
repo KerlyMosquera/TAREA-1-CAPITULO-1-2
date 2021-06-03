@@ -579,9 +579,6 @@ Quiere decir que un cuepo se encuentra con flujo de electrones por ejemplo el cu
 13.-Determina la carga en 19x10^13 electrones.
 
 
-
-
-
 2-3 Voltaje
 
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
@@ -697,14 +694,27 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
 
   46.- Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido
   
+  ![image](https://user-images.githubusercontent.com/84458025/120680639-2d3fea00-c460-11eb-8178-01b85dd4870f.png)
+
+  
   47 . Los fusibles tienen una especificacion de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. Tambien tienen una especificacion de voltaje. ¿ Por qué? Sugerencia: lea la sección de aislantes, 2.1.
   Porque
   
+  Con los datos que porporciona en fafricnate del ficible nos permite saber su resistencia de paso de corriente y la temeratura ala que puete tranajar y de que tipo es ceramico y de o vidrio 
+  ![image](https://user-images.githubusercontent.com/84458025/120681054-97588f00-c460-11eb-8388-d9762339bcf6.png)
+
+
 ## 4.VIDEO
+
+https://youtu.be/Vuyt3LQQYgA
+
 ## 5. CONCLUSIONES
 
 1. Al repasar las transformaciones de unidades son una herramienta poderosa para usar en la carrera de Ingeniería en Telecomunicaciones.
 2. Los ejercicios realizados en estos capítulos revisan la Física General Básica con sus conceptos y teorías.
+3. Con los ejercions relizados se puede determinar que las mediciones y los claculos cuentan con cierto marguen de error 
+4. Se pudo concer que existen diverso digramas de circutios 
+5. Con a ayuda tecnogica y progrmas se puederelizar de forma mas sencilla los calculos.
 
 ## 6. BIBLIOGRAFIA 
 
