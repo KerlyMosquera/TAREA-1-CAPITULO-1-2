@@ -282,10 +282,21 @@ Contando el número de ceros que es 18 entonces nos quedaría
 
 Con tanto el numero de 0 y recorriendo la coma nos queda:
 
-![image](https://user-images.githubusercontent.com/84431598/120649514-76814100-c442-11eb-9f56-0c05b32a6a23.png)
+![image](https://user-images.githubusercontent.com/84431598/120652416-6159e180-c445-11eb-8dc8-2d0489029a18.png)
+
+31.  Si 6.24 X 10^18 electrones pasan a través de un alambre en 1s, ¿cuántos pasan a través de él durante un intervalo de 2hr, 47min y 10s? 
 
 
-30.- Si 6.24 X 10^18 electrones pasan a través de un alambre en 1s, ¿cuántos pasan a través de él durante un intervalo de 2hr, 47min y 10s?
+32.-Calcula la distancia en metros que viaja la luz en el vació en 1.2x10^-8 segundos.
+
+![image](https://user-images.githubusercontent.com/84431598/120654033-e7c2f300-c446-11eb-87be-a67648030974.png)
+
+33.  ¿Cuánto tiempo tarda la luz en viajar 3.47x10^5 km en el vacío?
+
+![image](https://user-images.githubusercontent.com/84431598/120655005-d62e1b00-c447-11eb-84a2-eba7353c2b27.png)
+
+
+
 
   1-5 Prefijos, notación de ingeniería y resultados numéricos
   
