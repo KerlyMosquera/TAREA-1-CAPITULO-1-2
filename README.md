@@ -702,7 +702,7 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
 
 ## 6. BIBLIOGRAFIA 
 
-   Robbins,A y Miller,W.(2007).Análisis de circuitos .(Cuarta edición).Cengage Learning.
+   Robbins, A. & Miller, W.(2007).Análisis de circuitos: teoría y práctica (4ta ed). México D.F., México: Cengage Learning.
    
    
   
