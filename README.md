@@ -40,9 +40,80 @@
 
 
 
+1-3 Conversión de unidades
+1.	Realice las siguientes conversiones:
+a.	27 minutos a segundos
+
+b.	0.8 horas a segundos
+
+c.	2 h 3 min 43 s a s
+
+d.	35 caballos de potencia a watts
+
+e.	1827 W a hp
+
+f.	23 revoluciones a grados
+
+2.	Realice las siguientes conversiones:
+a.	27 pies a metros
+
+b.	2.3 yd a cm
+
+c.	36°F a °C
+
+d.	18 galones (E. U.) a litros
+
+e.	100 pies cuadrados a m2
+
+f.	124 pulgadas cuadradas a m2
+
+g.	47 libras fuerza a newtons
+
+3.	Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.
+a.	El área de una placa de 1.2 m por 70 cm en m2
+
+b.	El área de un triángulo con 25 cm de base, altura 0.5 m en m2
+
+c.	El volumen de una caja de 10 cm por 25 cm por 80 cm en m3
+
+d.	El volumen de una esfera de 10 pulgadas de radio en m3
+
+4.	Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?
+
+5.	Si la máquina robot de montaje superﬁcial de la ﬁgura 1-3 coloca 15 partes cada 12 s, ¿cuál es su tasa de colocación por hora?
+
+6.	Si su impresora láser puede imprimir 8 páginas por minuto, ¿cuántas páginas puede imprimir en una décima de hora?
+
+7.	Un auto tiene un rendimiento de 27 millas por galón (E. U.). ¿Cuál es el rendimiento en kilómetros por litro?
+
+8.	El radio ecuatorial de la Tierra es de 3963 millas. ¿Cuál es la circunferencia de la Tierra en kilómetros en el ecuador?
+
+9.	Una rueda gira 18° en 0.02 s. ¿A cuántas revoluciones por minuto equivale esta cantidad?
+
+10.	La altura de los caballos se mide en ocasiones en “palmos” donde 1 palmo = 4 pulgadas. ¿Cuántos metros de altura mide un caballo de 16 palmos?, ¿y en centímetros?
+
+11.	Se deﬁne la ecuación s = vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v = 60 mph por 500 segundos, obtiene y sustituye sin pensar s = (60)(500) = 30 000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?
+
+12.	Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12m/s?
+
+13.	A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí esta el trabajo de Joe: velocidad 2000 * 0.9144 * 60/60 = 1828.8 m/s. Determine los factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta.
+
+14.	La distancia media de la Tierra a la Luna es 238 857 millas, Las señales de radio viajan a 299 792 458 m/s. ¿Cuánto tiempo tardan las señales de radio en llegar a la Luna?
+
+15.	Si camina a una velocidad de 3 km/h por 8 minutos, 5 km/h por 1.25 h y luego continúa caminando a una velocidad de 4 km/h por 12 minutos, ¿qué distancia habrá caminado en total?
+
+16.	Suponga que camina a una velocidad de 2 mph por 12 minutos, 4 mph por0.75 h, luego termina de caminar a 5 mph por 15 minutos, ¿qué distancia habrá caminado en total?
+
+17.	Usted camina por 15 minutos a una velocidad de 2 km/h, luego 18 minutos a5 km/h, y el resto del tiempo su velocidad es de 2.5 km/h. Si la distancia total que recorrió es de 2.85 km, ¿cuántos minutos caminó a 2.5 km/h?
+
+18.	Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph por un corto tiempo y disminuye a 3 mph para los últimos 12 minutos. Si la distancia total recorrida es de 1.7 millas, ¿cuánto tiempo caminó a 3.5 mph?
+
+19.	Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la máquina #1 es 43 centavos/minuto, mientras que para la máquina #2 es de $200.00 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la conﬁabilidad a largo plazo de ambas máquinas son idénticos. Con base en esta información, ¿qué máquina debería comprar y por qué?
+
+20.	Dado que 1 hp = 550 ft-lb/s, 1 ft = 0.3048 m, 1 lb = 4.448 N, 1 J = 1 N-m y 1 W = 1 J/s, demuestre que 1 hp = 746 W.
 
 ###### VOLTAJE Y CORRIENTE
-2.1 Revisión de la teoría atómica
+2-1 Revisión de la teoría atómica
 
 2-2 La unidad de carga eléctrica: el 
 
