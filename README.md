@@ -154,29 +154,55 @@ d.	El volumen de una esfera de 10 pulgadas de radio en m3
 
 7.	Un auto tiene un rendimiento de 27 millas por galón (E. U.). ¿Cuál es el rendimiento en kilómetros por litro?
 
+![7 1](https://user-images.githubusercontent.com/84425276/120600014-de696480-c40d-11eb-8a8e-6783b56d54ee.PNG)
+
 8.	El radio ecuatorial de la Tierra es de 3963 millas. ¿Cuál es la circunferencia de la Tierra en kilómetros en el ecuador?
+
+![8 1](https://user-images.githubusercontent.com/84425276/120600059-ee814400-c40d-11eb-99e5-f8c49c23f8d0.PNG)
 
 9.	Una rueda gira 18° en 0.02 s. ¿A cuántas revoluciones por minuto equivale esta cantidad?
 
+![9 1](https://user-images.githubusercontent.com/84425276/120600082-f7721580-c40d-11eb-9ad0-7e1c6e1cf108.PNG)
+
 10.	La altura de los caballos se mide en ocasiones en “palmos” donde 1 palmo = 4 pulgadas. ¿Cuántos metros de altura mide un caballo de 16 palmos?, ¿y en centímetros?
+
+![10 1](https://user-images.githubusercontent.com/84425276/120600103-fe992380-c40d-11eb-9949-8b6c2e743112.PNG)
 
 11.	Se deﬁne la ecuación s = vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v = 60 mph por 500 segundos, obtiene y sustituye sin pensar s = (60)(500) = 30 000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?
 
+![11 1](https://user-images.githubusercontent.com/84425276/120600121-048f0480-c40e-11eb-8925-820955c5f80d.PNG)
+
 12.	Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12m/s?
+
+![12 1](https://user-images.githubusercontent.com/84425276/120600153-0c4ea900-c40e-11eb-9aa8-93180f4e5c36.PNG)
 
 13.	A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí esta el trabajo de Joe: velocidad 2000 * 0.9144 * 60/60 = 1828.8 m/s. Determine los factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta.
 
+![13 1](https://user-images.githubusercontent.com/84425276/120600174-12448a00-c40e-11eb-96b3-837e68f752ab.PNG)
+
 14.	La distancia media de la Tierra a la Luna es 238 857 millas, Las señales de radio viajan a 299 792 458 m/s. ¿Cuánto tiempo tardan las señales de radio en llegar a la Luna?
+
+![14 1](https://user-images.githubusercontent.com/84425276/120600192-196b9800-c40e-11eb-9b3b-a0ccfd001bec.PNG)
 
 15.	Si camina a una velocidad de 3 km/h por 8 minutos, 5 km/h por 1.25 h y luego continúa caminando a una velocidad de 4 km/h por 12 minutos, ¿qué distancia habrá caminado en total?
 
+![15 1](https://user-images.githubusercontent.com/84425276/120600227-212b3c80-c40e-11eb-8658-5a55e50586e4.PNG)
+
 16.	Suponga que camina a una velocidad de 2 mph por 12 minutos, 4 mph por0.75 h, luego termina de caminar a 5 mph por 15 minutos, ¿qué distancia habrá caminado en total?
+
+![16 1](https://user-images.githubusercontent.com/84425276/120600249-27211d80-c40e-11eb-925f-ed6a31be2ee2.PNG)
 
 17.	Usted camina por 15 minutos a una velocidad de 2 km/h, luego 18 minutos a5 km/h, y el resto del tiempo su velocidad es de 2.5 km/h. Si la distancia total que recorrió es de 2.85 km, ¿cuántos minutos caminó a 2.5 km/h?
 
+![17 1](https://user-images.githubusercontent.com/84425276/120600271-2f795880-c40e-11eb-8414-1b28183444be.PNG)
+
 18.	Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph por un corto tiempo y disminuye a 3 mph para los últimos 12 minutos. Si la distancia total recorrida es de 1.7 millas, ¿cuánto tiempo caminó a 3.5 mph?
 
+![18 1](https://user-images.githubusercontent.com/84425276/120600292-3607d000-c40e-11eb-89ac-bbf7fd65b126.PNG)
+
 19.	Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la máquina #1 es 43 centavos/minuto, mientras que para la máquina #2 es de $200.00 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la conﬁabilidad a largo plazo de ambas máquinas son idénticos. Con base en esta información, ¿qué máquina debería comprar y por qué?
+
+![19 1](https://user-images.githubusercontent.com/84425276/120600317-3d2ede00-c40e-11eb-8dcc-1f4383306c83.PNG)
 
 20.	Dado que 1 hp = 550 ft-lb/s, 1 ft = 0.3048 m, 1 lb = 4.448 N, 1 J = 1 N-m y 1 W = 1 J/s, demuestre que 1 hp = 746 W.
 
