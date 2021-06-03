@@ -746,6 +746,7 @@ R=525 horas
   ![image](https://user-images.githubusercontent.com/84431598/120669812-69218200-c455-11eb-9017-2fb9d84807d0.png)
 
   R=-25v
+  
   43.- La corriente en el circuito de la figura 2-35 es 9.17 A. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos
   
   c.- ambos 
@@ -765,7 +766,7 @@ R=525 horas
   47 . Los fusibles tienen una especificacion de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. Tambien tienen una especificacion de voltaje. ¿ Por qué? Sugerencia: lea la sección de aislantes, 2.1.
   Porque
   
-  Con los datos que porporciona en fafricnate del ficible nos permite saber su resistencia de paso de corriente y la temeratura ala que puete tranajar y de que tipo es ceramico y de o vidrio 
+  Con los datos que porporciona en fafricnate del ficible nos permite saber su resistencia de paso de corriente y la temeratura ala que puete tranajar y de que tipo es ceramico y de o vidrio
   ![image](https://user-images.githubusercontent.com/84458025/120681054-97588f00-c460-11eb-8388-d9762339bcf6.png)
 
 
