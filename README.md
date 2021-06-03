@@ -578,6 +578,21 @@ Quiere decir que un cuepo se encuentra con flujo de electrones por ejemplo el cu
 
 13.-Determina la carga en 19x10^13 electrones.
 
+![image](https://user-images.githubusercontent.com/84458025/120683341-223a8900-c463-11eb-9be0-9d69001b3c91.png)
+
+14.-Una placa de metal eléctricamente neutra adquiere una carga negativa de 47uC. ¿Cuántos electrones se le agregaron?
+
+Esta cargada negatiamente ya tiene mas electrones libres que protones.
+
+15.- A una placa de metal se le han adicionado 14.6x10^13 electrones y posteriormente se le agrega una carga de 1.3 uC. Si la carga final en la placa es de 5.6 uC, ¿cuál fue la carga inicial?
+
+![image](https://user-images.githubusercontent.com/84458025/120684607-83af2780-c464-11eb-9ccf-0ec734e78141.png)
+
+Una carga entonces=23x4µC-1.3µC=22.1µC
+
+Carga final de la placa es 5.6µC=5.6µC+22.1 µC
+
+Inicial =27.7 µC 
 
 2-3 Voltaje
 
@@ -639,23 +654,52 @@ Se produce debido a un fenómeno llamado electricidad estática, que consiste en
 
 ![29](https://user-images.githubusercontent.com/84425276/120660011-843bc400-c44c-11eb-8ea4-4865eee8ef2a.PNG)
 
-30.La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en Columbus y t en segundos.
+30.-La carga que pasa a través de un alambre está dada por q=10t+4, donde está en coulombs y t en segundos,
 
-![image](https://user-images.githubusercontent.com/84431598/120684999-f8826180-c464-11eb-9ca8-341dfa223424.png)
+a. ¿Cuánta carga ha pasado en t=5 s?
+q=10(5)+4
 
-31.- La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como la pregunta 30
+q=54 C
 
-![image](https://user-images.githubusercontent.com/84431598/120685450-75add680-c465-11eb-8683-03d6e8f5daeb.png)
+b. ¿Cuánta carga ha pasado en t=8 s?
 
-32.  32.-¿ Cuánto tiempo le toma a 312×〖10〗^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8A ?
+q=10(8)+4
+
+q=84C
+
+c. ¿Cuál es la corriente en amperes?
+
+I=54C/5s 
+I=10.8 A
+
+31.-La carga que pasa a través de un alambre es q  (80t  20) C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 
+
+![image](https://user-images.githubusercontent.com/84458025/120686152-4c417a80-c466-11eb-8fac-25205029b644.png)
 
 
-![image](https://user-images.githubusercontent.com/84431598/120685589-9c6c0d00-c465-11eb-9cda-c3b472882036.png)
+t=4.75 s
+
+q=(80t+20)C
+
+q=80(4.75)+20
+
+q=400 C
+
+I=Q/t
+
+I=400C/4.75s
+
+I=84.21 A
 
 
-33. ¿Si se requiere 1353.6 J para mover 47×〖10〗^19 electrones a través del circuito de la figura 2-32 en 1.3min ¿Cuánto valen E e I ?
+32.-¿Cuánto tiempo le toma a 312x10^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
 
-![image](https://user-images.githubusercontent.com/84431598/120685768-d6d5aa00-c465-11eb-8e78-ff2a7405f53f.png)
+![image](https://user-images.githubusercontent.com/84458025/120686555-b6f2b600-c466-11eb-9c4f-ecee16e4b38a.png)
+
+33.- Si se requieren 1 353.6 J para mover 47*10^19 electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?
+
+![image](https://user-images.githubusercontent.com/84458025/120687113-4f893600-c467-11eb-85f9-8f8e982801ad.png)
+
 
 
 34. ¿Qué se entiende por cd?, ¿y por ca?
@@ -680,30 +724,36 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
 
 39.  La batería de la figura 2-15 está especificada en 81 Ah a 5℃. ¿ Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5A a -15℃ ?
 
+![image](https://user-images.githubusercontent.com/84458025/120688445-afcca780-c468-11eb-84fc-0a0069797d43.png)
 
+R= 17 horas 
 
+40.-Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo
+de corriente de 0.8 A?
 
+R= 32horas 
 
+41.-En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
 
+![image](https://user-images.githubusercontent.com/84458025/120688880-1e116a00-c469-11eb-8763-63804dd616ff.png)
 
-
-
+R=525 horas
 
   2-6 Medición de voltaje y corriente
   
-  42. El voltímetro digital de la figura 2-34 tiene la característica de autopolaridad. Para cada casa, determine su lectura
+  42. El voltímetro digital de la figura 2-34 tiene la característica de autopolaridad. Para cada casa, determine su lectura.
   
   ![image](https://user-images.githubusercontent.com/84431598/120669812-69218200-c455-11eb-9017-2fb9d84807d0.png)
 
-  
+  R=-25v
   43.- La corriente en el circuito de la figura 2-35 es 9.17 A. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos
   
   c.- ambos 
   
-  44.- ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo
-  
-  
-  
+  44.- ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo.
+ 
+ ![image](https://user-images.githubusercontent.com/84458025/120690959-78abc580-c46b-11eb-9535-f075b6163d34.png)
+
   
 2-7 Interrumptores, fusibles e interrumptores automaticos 
 
