@@ -59,6 +59,9 @@
 
 2-7  Interruptores, fusibles e interruptores automáticos
 
+![image](https://user-images.githubusercontent.com/84431598/120592101-e7086d80-c402-11eb-9392-a2d4282e4356.png)
+
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS 
   1-3 Conversión de unidades 
   
