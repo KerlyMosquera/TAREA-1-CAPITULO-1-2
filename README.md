@@ -696,6 +696,10 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
   
 ## 4.VIDEO
 ## 5. CONCLUSIONES
+
+1. Al repasar las transformaciones de unidades son una herramienta poderosa para usar en la carrera de Ingeniería en Telecomunicaciones.
+2. Los ejercicios realizados en estos capítulos revisan la Física General Básica con sus conceptos y teorías.
+
 ## 6. BIBLIOGRAFIA 
 
    Robbins,A y Miller,W.(2007).Análisis de circuitos .(Cuarta edición).Cengage Learning.
