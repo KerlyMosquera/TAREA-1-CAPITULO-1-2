@@ -21,9 +21,9 @@
 ## 2. MARCO TEÓRICO
 ###### INTRODUCCION
 1-2.El sistema SI de unidades
-![png](https://user-images.githubusercontent.com/84425276/120572717-0fcc3b00-c3e2-11eb-9fc5-1fe949c20686.png)
+
 1-3 Conversión de unidades
-![Conversión de unidades](https://user-images.githubusercontent.com/84425276/120572852-4b670500-c3e2-11eb-8a27-262271f9cb36.png)
+
 1-4 Notación de potencia de diez
 
 1-5 Prefijos, notación de ingeniería y resultados numéricos
@@ -275,6 +275,28 @@ e.-Un electrón y un neutrón separados 5.7 x 10^-11 m
 ![image](https://user-images.githubusercontent.com/84458025/120569981-b281bb00-c3dc-11eb-8111-78653b99e6a3.png)
 
 8.-¿Qué significado tiene decir que un cuerpo está “cargado”?
+Quiere decir que un cuepo se encuentra con flujo de electrones por ejemplo el cuerpo humano tine carga estadiaca por que este flujo de eltrones puede dañar integrados electronicos.
+
+9.- La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180 N. Si Q1=4uC, ¿cuánto vale Q2?,¿la fuerza es de atracción o de repulsión?
+
+![image](https://user-images.githubusercontent.com/84458025/120572521-b7953900-c3e1-11eb-9780-5d86ba8b4652.png)
+
+10.- Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿cuál sería la fuerza entre ellas en newtons?, ¿y en toneladas?
+
+![image](https://user-images.githubusercontent.com/84458025/120572697-0642d300-c3e2-11eb-88f6-51abd93248fa.png)
+
+11.-La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q2 = 5Q1, determine las cargas y su posible signo.
+
+![image](https://user-images.githubusercontent.com/84458025/120572847-4904ab00-c3e2-11eb-8630-4feb5a98abd5.png)
+
+12.-¿Cuántos electrones representa una carga de 1.63 uC?
+
+![image](https://user-images.githubusercontent.com/84458025/120573270-e95acf80-c3e2-11eb-9d9c-867b3ffd9e33.png)
+
+13.-Determina la carga en 19x10^13 electrones.
+
+
+
 
 
 
