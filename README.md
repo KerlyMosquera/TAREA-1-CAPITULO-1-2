@@ -244,7 +244,40 @@ En esos ejercicios se presenta una multiplicación entonces se multiplican los n
 
 ![image](https://user-images.githubusercontent.com/84431598/120607417-c3025780-c415-11eb-9d4f-324d188fecdf.png)
 
-  
+![image](https://user-images.githubusercontent.com/84431598/120607943-43c15380-c416-11eb-934c-39bb0d98358a.png)
+
+26. Para cada una de las siguientes cantidades convierta los números a notación de potencias de diez, después realice los cálculos que se indican. Redondee su respuesta a cuatro dígitos 
+
+![image](https://user-images.githubusercontent.com/84431598/120608111-710e0180-c416-11eb-8e3f-a83822f65903.png)
+
+![image](https://user-images.githubusercontent.com/84431598/120608188-88e58580-c416-11eb-9eb3-bc40cc0d5108.png)
+
+![image](https://user-images.githubusercontent.com/84431598/120611181-846e9c00-c419-11eb-8969-ce4f556e89c7.png)
+
+![image](https://user-images.githubusercontent.com/84431598/120611293-a831e200-c419-11eb-8f7b-57df186c1adc.png)
+
+27. Realice lo siguiente,
+
+a. Convierte los números a notación de potencias de diez, después realice los cálculos que se indican,
+
+b. Realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?
+
+![image](https://user-images.githubusercontent.com/84431598/120611518-e4fdd900-c419-11eb-818c-88ae6d42d566.png)
+
+Por lo tanto, se concluye que el resultado fue al mismo, se puede hacer la conversión antes del proceso o si es necesario en la respuesta, para mayor rapidez sería mejor el cálculo directo.
+
+28. Exprese cada una de las siguientes cantidades en notación convencional:
+
+![image](https://user-images.githubusercontent.com/84431598/120611718-14144a80-c41a-11eb-8e46-7bc8e472eaa6.png)
+
+29. Un coulomb (capitulo 2) es la cantidad de carga representada por 6240 000 000 000 000 000 electrones. Exprese esta cantidad en notación de potencia de diez
+
+Contando el número de ceros que es 18 entonces nos quedaría
+
+![image](https://user-images.githubusercontent.com/84431598/120611935-49209d00-c41a-11eb-960f-c6b413d382ab.png)
+
+30.- Si 6.24 X 10^18 electrones pasan a través de un alambre en 1s, ¿cuántos pasan a través de él durante un intervalo de 2hr, 47min y 10s? 
+
   1-5 Prefijos, notación de ingeniería y resultados numéricos
   
   1-6 Diagramas de circuitos
