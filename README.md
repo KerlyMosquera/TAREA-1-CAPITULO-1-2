@@ -318,6 +318,8 @@ Con tanto el numero de 0 y recorriendo la coma nos queda:
 
 36. La fuerza gravitacional entre dos cuerpos F=6.6726x10^-11*m1m2/r^2*N, donde las masas m1 y m2 están kilogramos y la distancia r entre los centros gravitacionales están en metros. Si el cuerpo 1 es una esfera con radio 5000 millas y densidad de 25kg/m^3, y el cuerpo 2 es una esfera de diámetro de 20000km y densidad de 12km/m^3 ¿Cuál es la fuerza gravitacional?
 
+1-5 Prefijos, notación de ingeniería y resultados numéricos
+
 37. ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
 
 ![image](https://user-images.githubusercontent.com/84431598/120661645-14c6d400-c44e-11eb-9420-1f847ae9bd18.png)
@@ -328,15 +330,8 @@ Con tanto el numero de 0 y recorriendo la coma nos queda:
 
 39.Exprese lo siguiente en notación de ingeniería más práctica (esto es 1270 us=1.27ms)
 
+ ![image](https://user-images.githubusercontent.com/84431598/120665672-9a984e80-c451-11eb-9c90-dbc768c3cc6b.png)
 
-
- 
-  1-5 Prefijos, notación de ingeniería y resultados numéricos
-  
-  1-6 Diagramas de circuitos
-  
-  1-7 Anàlisis de circuitos mediante computadora
- 
 
 40.Convierta lo siguiente
 a.-156 mV en volts
