@@ -58,6 +58,9 @@
 
 2-6  Medición de  voltaje y corriente
 
+![image](https://user-images.githubusercontent.com/84431598/120601216-479da780-c40f-11eb-9f8d-cdf188ac59ee.png)
+
+
 2-7  Interruptores, fusibles e interruptores automáticos
 
 ![image](https://user-images.githubusercontent.com/84431598/120592686-e0c6c100-c403-11eb-84ca-9bcf400a2af5.png)
