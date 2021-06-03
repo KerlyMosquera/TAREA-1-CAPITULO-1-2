@@ -32,8 +32,12 @@
 
 ![image](https://user-images.githubusercontent.com/84458025/120584277-4c556200-c3f5-11eb-838f-e75203e39f87.png)
 
+![image](https://user-images.githubusercontent.com/84458025/120584558-d271a880-c3f5-11eb-8cb7-bf6681aae935.png)
 
 1-7 Análisis de circuitos mediante computadoras y calculadoras
+
+![image](https://user-images.githubusercontent.com/84458025/120586660-8a548500-c3f9-11eb-8bfb-77ac934d1769.png)
+
 
 
 
