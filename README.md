@@ -214,6 +214,37 @@ d.	El volumen de una esfera de 10 pulgadas de radio en m3
 
   1-4 Notación de potencia de diez
   
+ 21. Exprese cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
+ .
+ Un número se puede convertir a notación científica aumentando la potencia de 10 en uno por cada lugar que el punto decimal se corra hacia la izquierda.
+ 
+ ![image](https://user-images.githubusercontent.com/84431598/120606468-d3fe9900-c414-11eb-8894-790abaf11da5.png)
+
+22. Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
+
+En esos ejercicios se presenta una multiplicación entonces se multiplican los números de las bases y se suman los exponentes.
+
+![image](https://user-images.githubusercontent.com/84431598/120606631-001a1a00-c415-11eb-9f4b-f86c77ef1942.png)
+
+23. Repita las instrucciones de la pregunta 22 para las siguientes cantidades
+
+![image](https://user-images.githubusercontent.com/84431598/120606765-2b046e00-c415-11eb-9d68-64f4b2a52886.png)
+
+24.Determine el resultado de las siguientes operaciones
+
+![image](https://user-images.githubusercontent.com/84431598/120606926-4f604a80-c415-11eb-95a3-a795b8a34d49.png)
+
+25. Convierta las siguientes cantidades a notación de potencia de 10, sin usar la calculadora determine las respuestas.
+
+![image](https://user-images.githubusercontent.com/84431598/120607054-70c13680-c415-11eb-871f-2076c8070a54.png)
+
+![image](https://user-images.githubusercontent.com/84431598/120607155-88002400-c415-11eb-9b0a-5b56fe44aad3.png)
+
+![image](https://user-images.githubusercontent.com/84431598/120607273-a534f280-c415-11eb-858b-0ffd96d676ae.png)
+
+![image](https://user-images.githubusercontent.com/84431598/120607417-c3025780-c415-11eb-9d4f-324d188fecdf.png)
+
+  
   1-5 Prefijos, notación de ingeniería y resultados numéricos
   
   1-6 Diagramas de circuitos
