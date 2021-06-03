@@ -49,6 +49,8 @@
 
 2-3  Voltaje
 
+![image](https://user-images.githubusercontent.com/84431598/120648245-0625f000-c441-11eb-9087-84310c68bd59.png)
+
 2-4 Corriente
 
 ![image](https://user-images.githubusercontent.com/84431598/120604285-854fff80-c412-11eb-9f59-22dcc67a51a1.png)
