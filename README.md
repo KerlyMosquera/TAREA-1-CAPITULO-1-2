@@ -21,7 +21,7 @@
 ## 2. MARCO TEÓRICO
 ###### INTRODUCCION
 1-2.El sistema SI de unidades
-
+![png](https://user-images.githubusercontent.com/84425276/120567155-abf04500-c3d6-11eb-86c3-655abdbe1dfe.png)
 1-3 Conversión de unidades
 
 1-4 Notación de potencia de diez
