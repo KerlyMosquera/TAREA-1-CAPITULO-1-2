@@ -456,6 +456,28 @@ Quiere decir que un cuepo se encuentra con flujo de electrones por ejemplo el cu
 
 
 
+2-3 Voltaje
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+17. Si se requieren 360 joules de energía para transferir 15 C de carga a través dela lámpara de la ﬁgura 2-1, ¿cuál es el voltaje de la batería?
+18. Si se requiere de 600 J de energía para mover 9.36 * 1019 electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
+19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro ,¿cuál es el voltaje entre los dos puntos?
+20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la ﬁgura 2-23?
+21. ¿Cuánta energía adquiere una carga de 0.5 uC conforme se mueve a través de una diferencia de potencial de 8.5 kV?
+22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
+23. Dado un voltaje de 12 V para la batería de la ﬁgura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+
+2-4	Corriente
+24. Para el circuito de la ﬁgura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes?
+
+25. Si 25 uC pasan a través del amperímetro de la ﬁgura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
+
+26. Si la corriente I = 4 A en la ﬁgura 2-1,¿cuántos coulombs pasan a través de la lámpara en 7 ms?
+
+27. ¿Cuánta carga pasa a través del circuito de la ﬁgura 2-25 en 20 ms?
+
+28. ¿Cuánto tiempo le toma a una carga de 100 uC pasar por un punto si la corriente es de 25 mA?
+
+29. Si 93.6 * 1012 electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
 
 
 
