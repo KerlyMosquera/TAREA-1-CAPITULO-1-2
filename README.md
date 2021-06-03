@@ -21,9 +21,9 @@
 ## 2. MARCO TEÓRICO
 ###### INTRODUCCION
 1-2.El sistema SI de unidades
-![png](https://user-images.githubusercontent.com/84425276/120567155-abf04500-c3d6-11eb-86c3-655abdbe1dfe.png)
+
 1-3 Conversión de unidades
-![Conversión de unidades](https://user-images.githubusercontent.com/84425276/120568990-a694f980-c3da-11eb-9766-d85888a62d12.png)
+
 1-4 Notación de potencia de diez
 
 1-5 Prefijos, notación de ingeniería y resultados numéricos
@@ -243,6 +243,42 @@ en esta descarga.
 Si dejamos al aire los extremos pelados de un conductor que se encuentre con flujo de corriente, no hay ninguna corriente entre ellos, el aire se comporta como un aislante, pero sin embargo en una tormenta, los rayos atraviesan el aire sin dificultad en este caso el aire se comporta como un conductor en realidad, si el voltaje de la corriente que intenta atravesar un aislante es lo suficientemente grande éste es capaz de comportarse como un conducto a esto se puede sumar que el flujo de lluvia y que la electricidad busca el mejor conductor por donde pueda fluir.
 
 6.- a. Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento en contactos. ¿Por qué?
+
+Por que esun mejor conductor y permite un mayor desempeño dejando pasar major flujo de electricidad en temperatura mabiente y esoto es aporvechado en campo de las TELECOMUNICACIONES mayor mente que ya que esto permite el paos de datos sin perdidas y lo mismo sude con equipos celualres, cordenadores.
+
+b.- ¿Por qué algunas veces se usa el aluminio cuando su conductividad es sólo 60% de la del cobre?
+
+Por su peso ya que un cable de cobre pesa la mitad que uno de cobre.
+
+2-2 LA UNIDAD DE CARGA ELECTRICA:EL COULOMB
+
+7. Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo es de atracción y cuándo de repulsión.
+
+a. Una carga de +1uC y una carga de +7uC, separadas 10 mm
+
+![image](https://user-images.githubusercontent.com/84458025/120568012-aa278100-c3d8-11eb-9151-b0b6cf7e55c8.png)
+
+b. Q1=8uC y Q2=4uC, separados 12 cm
+
+![image](https://user-images.githubusercontent.com/84458025/120568528-a9431f00-c3d9-11eb-9784-4e27581cc0c9.png)
+
+c.- Dos electrones separados 12x10^-8 m
+
+![image](https://user-images.githubusercontent.com/84458025/120569282-333fb780-c3db-11eb-8d2d-5d591321a100.png)
+
+d.-Un electrón y un protón separados 5.3 x 10^-11 m
+
+![image](https://user-images.githubusercontent.com/84458025/120569663-fa541280-c3db-11eb-8a9f-0fc5fccb17c5.png)
+
+e.-Un electrón y un neutrón separados 5.7 x 10^-11 m
+
+![image](https://user-images.githubusercontent.com/84458025/120569981-b281bb00-c3dc-11eb-8111-78653b99e6a3.png)
+
+8.-¿Qué significado tiene decir que un cuerpo está “cargado”?
+
+
+
+
 
 
 
