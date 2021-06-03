@@ -45,7 +45,7 @@
 ###### VOLTAJE Y CORRIENTE
 2-1 Revisión de la teoría atómica
 
-2-2 La unidad de carga eléctrica: el 
+2-2 La unidad de carga eléctrica: el coulomb
 
 2-3  Voltaje
 
