@@ -59,7 +59,8 @@
 
 2-7  Interruptores, fusibles e interruptores automáticos
 
-![image](https://user-images.githubusercontent.com/84431598/120592101-e7086d80-c402-11eb-9392-a2d4282e4356.png)
+![image](https://user-images.githubusercontent.com/84431598/120592686-e0c6c100-c403-11eb-84ca-9bcf400a2af5.png)
+
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS 
