@@ -58,6 +58,9 @@ La tecnología ha cambiado de manera sorprendente la forma en que hacemos las co
 ###### VOLTAJE Y CORRIENTE
 2-1 Revisión de la teoría atómica
 
+![image](https://user-images.githubusercontent.com/84431598/120677538-cbca4c00-c45c-11eb-967b-e31c8c00ba67.png)
+
+
 2-2 La unidad de carga eléctrica: el coulomb
 
 2-3  Voltaje
