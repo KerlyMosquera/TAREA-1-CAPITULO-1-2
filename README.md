@@ -67,33 +67,45 @@
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS 
   1-3 Conversión de unidades 
   1.	Realice las siguientes conversiones:
+ 
 a.	27 minutos a segundos
+
 ![1](https://user-images.githubusercontent.com/84425276/120597164-4cac2800-c40a-11eb-8a80-6a529afb6cd3.PNG)
+
 b.	0.8 horas a segundos
+
 ![2](https://user-images.githubusercontent.com/84425276/120597216-69486000-c40a-11eb-856c-f0af3275945a.PNG)
+
 c.	2 h 3 min 43 s a s
+
 ![3](https://user-images.githubusercontent.com/84425276/120597266-75ccb880-c40a-11eb-9098-b971512d7400.PNG)
 
 d.	35 caballos de potencia a watts
+
 ![4](https://user-images.githubusercontent.com/84425276/120597286-7a916c80-c40a-11eb-8c6c-e1d8cef317f7.PNG)
 
 e.	1827 W a hp
+
 ![5](https://user-images.githubusercontent.com/84425276/120597322-81b87a80-c40a-11eb-8195-28d816a5ce7e.PNG)
 
 f.	23 revoluciones a grados
+
 ![6](https://user-images.githubusercontent.com/84425276/120597344-8a10b580-c40a-11eb-9cef-f3493aaee571.PNG)
 
 2.	Realice las siguientes conversiones:
+
 a.	27 pies a metros
+
 ![7](https://user-images.githubusercontent.com/84425276/120597366-90069680-c40a-11eb-95ea-962325ed6795.PNG)
-
 b.	2.3 yd a cm
-![8](https://user-images.githubusercontent.com/84425276/120597381-939a1d80-c40a-11eb-8585-fb595180d373.PNG)
 
+![8](https://user-images.githubusercontent.com/84425276/120597381-939a1d80-c40a-11eb-8585-fb595180d373.PNG)
 c.	36°F a °C
+
 ![9](https://user-images.githubusercontent.com/84425276/120597391-985ed180-c40a-11eb-93c0-b243f2d8a8c1.PNG)
 
 d.	18 galones (E. U.) a litros
+
 ![10](https://user-images.githubusercontent.com/84425276/120597410-9e54b280-c40a-11eb-83e4-2be9f4f5003b.PNG)
 
 e.	100 pies cuadrados a m2
