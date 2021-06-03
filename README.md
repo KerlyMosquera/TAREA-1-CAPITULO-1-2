@@ -318,6 +318,8 @@ Con tanto el numero de 0 y recorriendo la coma nos queda:
 
 36. La fuerza gravitacional entre dos cuerpos F=6.6726x10^-11*m1m2/r^2*N, donde las masas m1 y m2 están kilogramos y la distancia r entre los centros gravitacionales están en metros. Si el cuerpo 1 es una esfera con radio 5000 millas y densidad de 25kg/m^3, y el cuerpo 2 es una esfera de diámetro de 20000km y densidad de 12km/m^3 ¿Cuál es la fuerza gravitacional?
 
+![image](https://user-images.githubusercontent.com/84431598/120667873-86ede780-c453-11eb-84ee-5a01800ad4fc.png)
+
 1-5 Prefijos, notación de ingeniería y resultados numéricos
 
 37. ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
