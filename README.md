@@ -21,9 +21,9 @@
 ## 2. MARCO TEÓRICO
 ###### INTRODUCCION
 1-2.El sistema SI de unidades
-
+![png](https://user-images.githubusercontent.com/84425276/120575920-861f6c00-c3e7-11eb-953c-279df7c891b3.png)
 1-3 Conversión de unidades
-
+![Conversión de unidades](https://user-images.githubusercontent.com/84425276/120575937-8f103d80-c3e7-11eb-8f5b-19f93e2c4ea7.png)
 1-4 Notación de potencia de diez
 ![Notación de potencias de diez](https://user-images.githubusercontent.com/84425276/120575851-68520700-c3e7-11eb-9afc-4dc3e1df9e5d.png)
 1-5 Prefijos, notación de ingeniería y resultados numéricos
