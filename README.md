@@ -51,6 +51,9 @@
 
 2-4 Corriente
 
+![image](https://user-images.githubusercontent.com/84431598/120604285-854fff80-c412-11eb-9f59-22dcc67a51a1.png)
+
+
 2-5 Fuentes de voltaje de cd prácticas
 
 ![image](https://user-images.githubusercontent.com/84431598/120587297-b4f30d80-c3fa-11eb-84f9-1170cdadb0a8.png)
