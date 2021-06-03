@@ -30,7 +30,8 @@
 ![Prefijos, notación de ingeniería y resultados numéricos](https://user-images.githubusercontent.com/84425276/120578698-d8628c00-c3eb-11eb-9555-10b9b81e9c82.png)
 1-6 Diagrama de circuitos
 
-![image](https://user-images.githubusercontent.com/84458025/120583972-c0433a80-c3f4-11eb-8838-d58fb5e7d069.png)
+![image](https://user-images.githubusercontent.com/84458025/120584277-4c556200-c3f5-11eb-838f-e75203e39f87.png)
+
 
 1-7 Análisis de circuitos mediante computadoras y calculadoras
 
