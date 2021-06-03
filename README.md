@@ -20,14 +20,27 @@
 
 ## 2. MARCO TEÓRICO
 ###### INTRODUCCION
+
+1-1 Introducción
+
+La tecnología ha cambiado de manera sorprendente la forma en que hacemos las cosas; ahora se cuenta con computadoras y complicados sistemas electrónicos de entretenimiento en nuestras casas, sistemas de control electrónicos en nuestros vehículos, teléfonos celulares que pueden usarse en cualquier lugar, robots que ensamblan productos en las líneas de producción, etc.
+
 1-2 El sistema SI de unidades
+
 ![png](https://user-images.githubusercontent.com/84425276/120575920-861f6c00-c3e7-11eb-953c-279df7c891b3.png)
+
 1-3 Conversión de unidades
+
 ![Conversión de unidades](https://user-images.githubusercontent.com/84425276/120575937-8f103d80-c3e7-11eb-8f5b-19f93e2c4ea7.png)
+
 1-4 Notación de potencia de diez
+
 ![Notación de potencias de diez](https://user-images.githubusercontent.com/84425276/120575851-68520700-c3e7-11eb-9afc-4dc3e1df9e5d.png)
+
 1-5 Prefijos, notación de ingeniería y resultados numéricos
+
 ![Prefijos, notación de ingeniería y resultados numéricos](https://user-images.githubusercontent.com/84425276/120578698-d8628c00-c3eb-11eb-9555-10b9b81e9c82.png)
+
 1-6 Diagrama de circuitos
 
 ![image](https://user-images.githubusercontent.com/84458025/120584277-4c556200-c3f5-11eb-838f-e75203e39f87.png)
@@ -550,29 +563,64 @@ Quiere decir que un cuepo se encuentra con flujo de electrones por ejemplo el cu
 
 
 2-3 Voltaje
+
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+ 
+Se produce debido a un fenómeno llamado electricidad estática, que consiste en la descarga acumulada de los objetos.
+
 17. Si se requieren 360 joules de energía para transferir 15 C de carga a través dela lámpara de la ﬁgura 2-1, ¿cuál es el voltaje de la batería?
+
+![17](https://user-images.githubusercontent.com/84425276/120659583-20190000-c44c-11eb-9ae9-f1aebd0e28d7.PNG)
+
 18. Si se requiere de 600 J de energía para mover 9.36 * 1019 electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
+
+![18](https://user-images.githubusercontent.com/84425276/120659612-25764a80-c44c-11eb-8d80-648a9c026c45.PNG)
+
 19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro ,¿cuál es el voltaje entre los dos puntos?
+
+![19](https://user-images.githubusercontent.com/84425276/120659636-29a26800-c44c-11eb-9038-e1bb593082fa.PNG)
+
 20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la ﬁgura 2-23?
+ 
+ ![20](https://user-images.githubusercontent.com/84425276/120659778-4f2f7180-c44c-11eb-9cdd-05a2cc4e12fd.PNG)
+
 21. ¿Cuánta energía adquiere una carga de 0.5 uC conforme se mueve a través de una diferencia de potencial de 8.5 kV?
+
+![21](https://user-images.githubusercontent.com/84425276/120659806-53f42580-c44c-11eb-967d-74c58ef6d39a.PNG)
+
 22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
+ 
+ ![22](https://user-images.githubusercontent.com/84425276/120659827-59517000-c44c-11eb-80be-3134b9967109.PNG)
+
 23. Dado un voltaje de 12 V para la batería de la ﬁgura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+ 
+ ![23](https://user-images.githubusercontent.com/84425276/120659862-62424180-c44c-11eb-969d-c0ed21ad45be.PNG)
 
 2-4	Corriente
+
 24. Para el circuito de la ﬁgura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes?
+
+![24](https://user-images.githubusercontent.com/84425276/120659913-6ec69a00-c44c-11eb-9a5f-15e8194600b5.PNG)
 
 25. Si 25 uC pasan a través del amperímetro de la ﬁgura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
 
+![25](https://user-images.githubusercontent.com/84425276/120659923-71c18a80-c44c-11eb-967a-e55fe94484dc.PNG)
+
 26. Si la corriente I = 4 A en la ﬁgura 2-1,¿cuántos coulombs pasan a través de la lámpara en 7 ms?
+
+![26](https://user-images.githubusercontent.com/84425276/120659937-75551180-c44c-11eb-967a-20f8e6b09b92.PNG)
 
 27. ¿Cuánta carga pasa a través del circuito de la ﬁgura 2-25 en 20 ms?
 
+![27](https://user-images.githubusercontent.com/84425276/120659958-79812f00-c44c-11eb-943a-4bb4946971ef.PNG)
+
 28. ¿Cuánto tiempo le toma a una carga de 100 uC pasar por un punto si la corriente es de 25 mA?
+
+![28](https://user-images.githubusercontent.com/84425276/120659976-7dad4c80-c44c-11eb-90d4-1048ba8bbb5a.PNG)
 
 29. Si 93.6 * 1012 electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
 
-
+![29](https://user-images.githubusercontent.com/84425276/120660011-843bc400-c44c-11eb-8ea4-4865eee8ef2a.PNG)
 
 
 
