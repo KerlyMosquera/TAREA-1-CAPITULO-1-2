@@ -639,8 +639,23 @@ Se produce debido a un fenómeno llamado electricidad estática, que consiste en
 
 ![29](https://user-images.githubusercontent.com/84425276/120660011-843bc400-c44c-11eb-8ea4-4865eee8ef2a.PNG)
 
+30.La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en Columbus y t en segundos.
+
+![image](https://user-images.githubusercontent.com/84431598/120684999-f8826180-c464-11eb-9ca8-341dfa223424.png)
+
+31.- La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como la pregunta 30
+
+![image](https://user-images.githubusercontent.com/84431598/120685450-75add680-c465-11eb-8683-03d6e8f5daeb.png)
+
+32.  32.-¿ Cuánto tiempo le toma a 312×〖10〗^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8A ?
 
 
+![image](https://user-images.githubusercontent.com/84431598/120685589-9c6c0d00-c465-11eb-9cda-c3b472882036.png)
+
+
+33. ¿Si se requiere 1353.6 J para mover 47×〖10〗^19 electrones a través del circuito de la figura 2-32 en 1.3min ¿Cuánto valen E e I ?
+
+![image](https://user-images.githubusercontent.com/84431598/120685768-d6d5aa00-c465-11eb-8e78-ff2a7405f53f.png)
 
 
 34. ¿Qué se entiende por cd?, ¿y por ca?
@@ -676,7 +691,7 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
 
   2-6 Medición de voltaje y corriente
   
-  42. El voltímetro digital de la figura 2-34 tiene la característica de autopolaridad. Para cada casa, determine su lectura.
+  42. El voltímetro digital de la figura 2-34 tiene la característica de autopolaridad. Para cada casa, determine su lectura
   
   ![image](https://user-images.githubusercontent.com/84431598/120669812-69218200-c455-11eb-9017-2fb9d84807d0.png)
 
@@ -685,7 +700,7 @@ Se concluye, mientras el consumo inicial sea menor, mayor será el tiempo de ser
   
   c.- ambos 
   
-  44.- ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo.
+  44.- ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo
   
   
   
