@@ -25,7 +25,7 @@
 1-3 Conversión de unidades
 
 1-4 Notación de potencia de diez
-
+![Notación de potencias de diez](https://user-images.githubusercontent.com/84425276/120575851-68520700-c3e7-11eb-9afc-4dc3e1df9e5d.png)
 1-5 Prefijos, notación de ingeniería y resultados numéricos
 
 1-6 Diagrama de circuitos
