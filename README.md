@@ -23,7 +23,7 @@
 1-2.El sistema SI de unidades
 ![png](https://user-images.githubusercontent.com/84425276/120567155-abf04500-c3d6-11eb-86c3-655abdbe1dfe.png)
 1-3 Conversión de unidades
-
+![Conversión de unidades](https://user-images.githubusercontent.com/84425276/120568990-a694f980-c3da-11eb-9766-d85888a62d12.png)
 1-4 Notación de potencia de diez
 
 1-5 Prefijos, notación de ingeniería y resultados numéricos
