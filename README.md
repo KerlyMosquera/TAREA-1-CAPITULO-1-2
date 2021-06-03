@@ -313,7 +313,24 @@ Con tanto el numero de 0 y recorriendo la coma nos queda:
  Un año luz equivale aproximadamente a 9 billones de kilómetros (cerca de 6 billones de millas).La luz viaja a una velocidad de 300 000 kilómetros por segundo (186 000 millas por segundo).
  
  35. Al investigar un sitio para un proyecto hidroeléctrico se determina que el flujo de agua es de 3X10^4 m^3/s ¿A cuánto equivale esta cantidad en litros/ horas?
+ 
+ ![image](https://user-images.githubusercontent.com/84431598/120661480-ef39ca80-c44d-11eb-8820-43d7308c169c.png)
 
+36. La fuerza gravitacional entre dos cuerpos F=6.6726x10^-11*m1m2/r^2*N, donde las masas m1 y m2 están kilogramos y la distancia r entre los centros gravitacionales están en metros. Si el cuerpo 1 es una esfera con radio 5000 millas y densidad de 25kg/m^3, y el cuerpo 2 es una esfera de diámetro de 20000km y densidad de 12km/m^3 ¿Cuál es la fuerza gravitacional?
+
+37. ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
+
+![image](https://user-images.githubusercontent.com/84431598/120661645-14c6d400-c44e-11eb-9420-1f847ae9bd18.png)
+
+38. Exprese lo siguiente en términos de sus abreviaturas, es decir, micro watts como uW. Ponga atención en las mayúsculas (esto es V, no v para volts)
+
+![image](https://user-images.githubusercontent.com/84431598/120662487-cebe4000-c44e-11eb-9e57-e7512e5a6fd3.png)
+
+39.Exprese lo siguiente en notación de ingeniería más práctica (esto es 1270 us=1.27ms)
+
+
+
+ 
   1-5 Prefijos, notación de ingeniería y resultados numéricos
   
   1-6 Diagramas de circuitos
